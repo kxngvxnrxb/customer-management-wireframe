@@ -23,13 +23,13 @@ These wireframes were created before development to:
 ## Screens
 
 ### Customer List
-![Customer List](screens/customer-list.jpg)
+![Customer List](customer-list.jpeg)
 
 ### Customer Profile
-![Customer Profile](screens/customer-profile.jpg)
+![Customer Profile](customer-profile.jpeg)
 
 ### Identity Verification
-![Identity Verification](screens/identity-verification.jpg)
+![Identity Verification](identity-verification.jpeg)
 
 ---
 
